@@ -127,19 +127,8 @@ To set up SafeWeb locally, follow these steps:
     ```bash
      npm start
 
-## 🤝 Contributing 
-We welcome contributions! If you'd like to contribute to SafeWeb, please follow these steps:
-   -Fork the repository.
 
-   -Create a new branch (git checkout -b feature/YourFeatureName).
-
-   -Commit your changes (git commit -m 'Add some feature').
-
-   -Push to the branch (git push origin feature/YourFeatureName).
-
-   -Open a pull request.
-
-- Made with ❤️ by Anjali Dass **
+Made with ❤️ by Anjali Dass
 
 
 ### Key Features of This README:
