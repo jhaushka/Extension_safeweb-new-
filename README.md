@@ -106,61 +106,41 @@ To set up SafeWeb locally, follow these steps:
    git clone https://github.com/your-username/safeweb.git
    cd safeweb
    
-Install Dependencies:
+2. **Install Dependencies**:
 
-bash
-Copy
-npm install
-Run the Extension:
+   ```bash
+   npm install
 
-Load the extension in Chrome:
 
-Go to chrome://extensions/.
+3. **Run the Extension**:
 
-Enable Developer Mode.
+  1. Load the extension in Chrome:
 
-Click Load Unpacked and select the safeweb folder.
+  2. Go to chrome://extensions/.
 
-Start the Backend Server:
+  3. Enable Developer Mode.
 
-bash
-Copy
-npm start
-🤝 Contributing
+  4. Click Load Unpacked and select the safeweb folder.
+
+4. **Start the Backend Server**:
+
+    ```bash
+     npm start
+
+## 🤝 Contributing 
 We welcome contributions! If you'd like to contribute to SafeWeb, please follow these steps:
+   -Fork the repository.
 
-Fork the repository.
+   -Create a new branch (git checkout -b feature/YourFeatureName).
 
-Create a new branch (git checkout -b feature/YourFeatureName).
+   -Commit your changes (git commit -m 'Add some feature').
 
-Commit your changes (git commit -m 'Add some feature').
+   -Push to the branch (git push origin feature/YourFeatureName).
 
-Push to the branch (git push origin feature/YourFeatureName).
+   -Open a pull request.
 
-Open a pull request.
+- Made with ❤️ by Anjali Dass **
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-🙏 Acknowledgments
-Thanks to the open-source community for providing the tools and libraries that made this project possible.
-
-Special thanks to our beta testers for their valuable feedback.
-
-📞 Contact
-For questions, feedback, or support, feel free to reach out:
-
-Email: your-email@example.com
-
-GitHub: Your GitHub Profile
-
-LinkedIn: Your LinkedIn Profile
-
-Made with ❤️ by [Your Name] | [Your Organization/Team Name]
-
-Copy
-
----
 
 ### Key Features of This README:
 1. **Decorative Design**: Uses emojis, banners, and sections to make it visually appealing.
