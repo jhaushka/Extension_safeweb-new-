@@ -1,6 +1,6 @@
 # 🌐 SafeWeb - Harassment Prevention Chrome Extension
 
-![SafeWeb Banner](![image](https://github.com/user-attachments/assets/86061d58-b33a-4fb4-a2e9-837712c38e3d))
+https://github.com/user-attachments/assets/86061d58-b33a-4fb4-a2e9-837712c38e3d
 
 **SafeWeb** is a powerful Chrome extension designed to combat online harassment by leveraging **AI/ML algorithms** and an integrated **chatbot** for real-time support. It detects harmful content, provides actionable recommendations, and ensures a safer browsing experience for users.
 
