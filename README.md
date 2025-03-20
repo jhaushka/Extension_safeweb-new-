@@ -45,10 +45,12 @@ Online harassment is a growing concern, affecting millions of users worldwide. S
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x400) <!-- Add your screenshot here -->
+ <![Screenshot 2025-03-19 214606](https://github.com/user-attachments/assets/b33ac692-94d9-4863-baa0-de33a592e416)
+!-- Add your screenshot here -->
 *Real-Time Harassment Detection in Action*
+![Screenshot 2025-03-19 214931](https://github.com/user-attachments/assets/018b60c0-7475-426c-8b98-c70324e607a2)
 
-![Screenshot 2](https://via.placeholder.com/600x400) <!-- Add your screenshot here -->
+ <!-- Add your screenshot here -->
 *Chatbot Providing Support and Recommendations*
 
 ---
