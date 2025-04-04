@@ -127,11 +127,3 @@ To set up SafeWeb locally, follow these steps:
 
 Made with ❤️ by Anjali Dass
 
-
-### Key Features of This README:
-1. **Decorative Design**: Uses emojis, banners, and sections to make it visually appealing.
-2. **Detailed Sections**: Covers features, use cases, importance, installation, and development setup.
-3. **Placeholder Images**: Add your screenshots and banner image to make it more engaging.
-4. **Call-to-Action**: Encourages contributions and provides contact information.
-
-You can customize this template further to match your project's branding and add your images. Let me know if you need additional sections or modifications! 🚀
